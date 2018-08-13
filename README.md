@@ -1,7 +1,6 @@
 # Java-JavaFX-Audio-Tutorials-by-GOXR3PLUS
 Amazing JavaFX Tutorials all here from years of experience with Java Audio
 
-## Java Audio Tutorials and API's by GOXR3PLUS STUDIO
  - **Spectrum Analyzers**
    - [Java-Audio-Wave-Spectrum-API](https://github.com/goxr3plus/Java-Audio-Wave-Spectrum-API)
     ![image](https://github.com/goxr3plus/Java-Audio-Wave-Spectrum-API/raw/master/images/Screenshot_2.jpg?raw=true)

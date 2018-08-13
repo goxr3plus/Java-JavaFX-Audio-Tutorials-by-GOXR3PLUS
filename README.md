@@ -19,3 +19,7 @@ Amazing JavaFX Tutorials all here from years of experience with Java Audio
    - [Java Google Text To Speech](https://github.com/goxr3plus/Java-Google-Text-To-Speech)
    - [Full Google Translate Support using Java](https://github.com/goxr3plus/java-google-translator)
    - [Professional Java Google Desktop Translator](https://github.com/goxr3plus/Java-Google-Desktop-Translator)
+
+# TODO TUTORIALS 
+
+[IBM-Watson-Speech-Recognition-Tutorials](https://github.com/goxr3plus/IBM-Watson-Speech-Recognition-Tutorials)

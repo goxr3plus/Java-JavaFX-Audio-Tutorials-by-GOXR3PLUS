@@ -6,11 +6,11 @@ Amazing JavaFX Tutorials all here from years of experience with Java Audio
     ![image](https://github.com/goxr3plus/Java-Audio-Wave-Spectrum-API/raw/master/images/Screenshot_2.jpg?raw=true)
    - [Jave Spectrum Analyzers from Audio](https://github.com/goxr3plus/Java-Spectrum-Analyser-Tutorials)
    
-    [![Java Spectrum Analyser Tutorial](http://img.youtube.com/vi/lwlioga8Row/0.jpg)](https://www.youtube.com/watch?v=lwlioga8Row)
+      [![Java Spectrum Analyser Tutorial](http://img.youtube.com/vi/lwlioga8Row/0.jpg)](https://www.youtube.com/watch?v=lwlioga8Row)
 
    - [Capture Audio from Microphone and make complex spectrum analyzers](https://github.com/goxr3plus/Java-Microphone-Audio-Spectrum-Analyzers-Tutorial)
    
-     [![First](http://img.youtube.com/vi/6r9Wu_OUbPc/0.jpg)](https://www.youtube.com/watch?v=6r9Wu_OUbPc)
+      [![First](http://img.youtube.com/vi/6r9Wu_OUbPc/0.jpg)](https://www.youtube.com/watch?v=6r9Wu_OUbPc)
   
  - **Java multiple audio formats player**
    - [Java-stream-player](https://github.com/goxr3plus/java-stream-player)
